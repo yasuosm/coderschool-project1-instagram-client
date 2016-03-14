@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InstagramClient</string>
+    <string name="instagram_client_id">e05c462ebd86446ea48a5af73769b602</string>
+    <string name="image">Image</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="action">Action</string>
+    <string name="likes">likes</string>
+    <string name="view_all_d_comment">View all %d comments</string>
+    <string name="instagram">Instagram</string>
+    <string name="comments">Comments</string>
+    <string name="video">video</string>
+    <string name="title_activity_media_player">MediaPlayerActivity</string>
+    <string name="buffering">Buffering...</string>
+</resources>
