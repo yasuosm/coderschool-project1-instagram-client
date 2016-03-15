@@ -29,7 +29,6 @@ public class VideoPlayerActivity extends Activity {
             MediaController mediacontroller = new MediaController(VideoPlayerActivity.this);
             mediacontroller.setAnchorView(vvVideo);
             String videoUrl = getIntent().getStringExtra("videoUrl");
-            Log.d("VIDEO", videoUrl);
             Uri videoUri = Uri.parse(videoUrl);
             vvVideo.setMediaController(mediacontroller);
             vvVideo.setVideoURI(videoUri);

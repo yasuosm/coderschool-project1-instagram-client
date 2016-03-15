@@ -55,7 +55,6 @@ public class MediaItemsAdapter extends ArrayAdapter<MediaItem> {
     public View getView(int position, View convertView, ViewGroup parent) {
         // Get item
         final MediaItem item = getItem(position);
-        Log.d("VIDEO--", item.getId());
 
         // View holder
         ViewHolder viewHolder;
